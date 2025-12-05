@@ -1,0 +1,8 @@
+{
+  "name": "BIT APP",
+  "description": "Comprehensive operating system for Baobab Institute of Tanzania covering Administration, Academics, Accounting, Communication, and Learning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
